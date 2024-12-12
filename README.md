@@ -1,4 +1,4 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
+# Spotify Advanced SQL Project and Query Optimization 
 Project Category: Advanced
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
