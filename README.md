@@ -228,8 +228,6 @@ FROM Spotify
 ORDER BY 3 DESC ;
 ```
 
-Here’s an updated section for your **Spotify Advanced SQL Project and Query Optimization** README, focusing on the query optimization task you performed. You can include the specific screenshots and graphs as described.
-
 ---
 
 ## Query Optimization Technique 
@@ -270,20 +268,11 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ## Technology Stack
 - **Database**: PostgreSQL
-- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
-- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+- **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions.
+- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL.
 
 
----
 
-## Next Steps
-- **Visualize the Data**: Use a data visualization tool like **Tableau** or **Power BI** to create dashboards based on the query results.
-- **Expand Dataset**: Add more rows to the dataset for broader analysis and scalability testing.
-- **Advanced Querying**: Dive deeper into query optimization and explore the performance of SQL queries on larger datasets.
 
----
-
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
 
 
