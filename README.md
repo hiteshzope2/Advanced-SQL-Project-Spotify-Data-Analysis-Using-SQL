@@ -1,6 +1,5 @@
 # Spotify Advanced SQL Project and Query Optimization P-6
 Project Category: Advanced
-[Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
 ![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
 
@@ -152,12 +151,6 @@ This optimization shows how indexing can drastically reduce query time, improvin
 - **SQL Queries**: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
 - **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
 
-## How to Run the Project
-1. Install PostgreSQL and pgAdmin (if not already installed).
-2. Set up the database schema and tables using the provided normalization structure.
-3. Insert the sample data into the respective tables.
-4. Execute SQL queries to solve the listed problems.
-5. Explore query optimization techniques for large datasets.
 
 ---
 
@@ -171,7 +164,4 @@ This optimization shows how indexing can drastically reduce query time, improvin
 ## Contributing
 If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
 
----
 
-## License
-This project is licensed under the MIT License.
