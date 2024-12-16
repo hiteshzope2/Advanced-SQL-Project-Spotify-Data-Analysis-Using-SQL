@@ -219,7 +219,7 @@ SELECT
 FROM Spotify 
 	WHERE energy_liveness > 1.2 ;
 ```
-6. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
+5. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
 ```sql
 SELECT 
 	track,
